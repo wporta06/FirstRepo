@@ -16,7 +16,7 @@
 	     
 	    
 	    	printf("\t\t\t################### Welcome to Voting 2021 ###################\n");
-	    	printf("\t\t\t#############################hiiiiiii#################################\n");
+	    	printf("\t\t\t#############################hiiiiiii#########hiii 2########################\n");
      
 	 	//demande du nombre de president et de electeur: President_N1  Voters_N
 	 	do{
